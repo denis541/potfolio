@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (frame) frame.src = CONFIG.resume;
   if (dl) { dl.href = CONFIG.resume; }
 
-  // Contact form: sends to your email through FormSubmit (no server needed)
+  // Contact form: 
   const form = document.getElementById("contact-form");
   if (form) {
     const status = document.getElementById("form-status");
