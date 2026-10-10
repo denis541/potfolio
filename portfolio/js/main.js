@@ -1,9 +1,9 @@
-/* ===== Site configuration: edit the values below ===== */
+
 const CONFIG = {
   name: "Denis O. Onduso",
   email: "denisonyancha71@gmail.com",
   github: "https://github.com/denis541",
-  linkedin: "",                     // <-- paste your LinkedIn profile URL here, e.g. "https://www.linkedin.com/in/your-name"
+  linkedin: "",                     
   resume: "assets/resume.pdf"       // <-- put your resume PDF in the assets folder with this name
 };
 
