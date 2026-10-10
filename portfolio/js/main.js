@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const y = document.getElementById("year");
   if (y) y.textContent = new Date().getFullYear();
 
-  // Theme toggle (saved in the browser)
+  // Theme toggle 
   const root = document.documentElement;
   const tbtn = document.getElementById("theme-toggle");
   const syncLabel = () => {
