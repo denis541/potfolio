@@ -4,7 +4,7 @@ const CONFIG = {
   email: "denisonyancha71@gmail.com",
   github: "https://github.com/denis541",
   linkedin: "",                     
-  resume: "assets/resume.pdf"       // <-- put your resume PDF in the assets folder with this name
+  resume: "assets/resume.pdf"     
 };
 
 document.addEventListener("DOMContentLoaded", () => {
